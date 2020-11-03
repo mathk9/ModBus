@@ -1,0 +1,13 @@
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\obj\Debug\App.ModBus.exe
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\obj\Debug\App.ModBus.Properties.Resources.resources
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\obj\Debug\AppModBus.csproj.GenerateResource.Cache
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\obj\Debug\App.ModBus.Main.resources
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\bin\Debug\App.ModBus.exe
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\bin\Debug\App.ModBus.pdb
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\bin\Debug\FtdAdapter.dll
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\bin\Debug\log4net.dll
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\bin\Debug\Modbus.dll
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\bin\Debug\Unme.Common.dll
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\obj\Debug\App.ModBus.pdb
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\obj\Debug\App.ModBus.Graph.resources

@@ -1,0 +1,8 @@
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\obj\Debug\App.ModBus.Form1.resources
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\obj\Debug\App.ModBus.Properties.Resources.resources
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\obj\Debug\App.ModBus.csproj.GenerateResource.Cache
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\bin\Debug\App.ModBus.exe
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\bin\Debug\App.ModBus.pdb
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\obj\Debug\App.ModBus.exe
+C:\Users\matheus.novais\Desktop\C#\App.ModBus\App.ModBus\obj\Debug\App.ModBus.pdb
